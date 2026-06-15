@@ -27,7 +27,14 @@
 2. [ ] Add root `.gitignore`, `.env.example`, and detailed `README.md`.
 3. [ ] Initialize this directory as its own git repo and review tracked files.
 4. [ ] Run backend and frontend verification.
-5. [ ] Commit on `main` and push to GitHub.
+5. [x] Commit on `main` and push to GitHub.
+
+## Completion Notes - 2026-06-15
+
+- Initialized `/Users/yashwadgave/Desktop/agent builder` as its own Git repository, separate from the parent Desktop repository.
+- Added `origin` as `https://github.com/Yospy/agent-builder-Go.git`.
+- Pushed `main` to GitHub.
+- Verified no `.env`, SQLite DB, runtime logs, `node_modules`, `.next`, or local tool state files are tracked.
 
 ## Risks
 

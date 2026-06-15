@@ -6,7 +6,7 @@
 - [x] 20.2 Add root `.gitignore`, `.env.example`, and detailed `README.md`
 - [x] 20.3 Initialize this directory as its own git repo and review tracked files
 - [x] 20.4 Run backend and frontend verification
-- [ ] 20.5 Commit on `main` and push to GitHub
+- [x] 20.5 Commit on `main` and push to GitHub
 
 ## Sprint 19 — Agent Edit Chats
 
