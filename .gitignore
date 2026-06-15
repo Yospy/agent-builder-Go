@@ -1,0 +1,39 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local databases and runtime state
+*.db
+*.db-*
+server/logs/
+server/workspace/
+server/agent-builder-restart
+
+# Go
+bin/
+dist/
+coverage.out
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+
+# Logs and caches
+*.log
+.cache/
+.turbo/
+.vercel/
+
+# Local tool state
+.bt/
+.claude/
+.cursor/
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo
